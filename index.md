@@ -66,4 +66,4 @@ Since the App does not store personal data, there is no personal data maintained
 
 For any questions regarding this policy, please contact:
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [gabriel.bazak@gmail.com](mailto:gabriel.bazak@gmail.com)
